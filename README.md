@@ -1,5 +1,4 @@
 # Gigachat_Control_Theory
-F**king ICS
 
 Dear who it might concern,
 
