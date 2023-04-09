@@ -1,8 +1,1 @@
-# Gigachat_Control_Theory
-
-Dear who it might concern,
-
-You're welcome.
-
-K.R.
-David Chen
+This repository includes code for Intelligent Control System of TU Delft. Noted that only the assignment file is included. For overall run and intact engineering project, please download supporting file from repository https://github.com/tud-cor-sr/ics-pa-sv.
